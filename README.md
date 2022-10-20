@@ -1,4 +1,4 @@
-### 가면가 하면해👋
+### Just Do It 💥
 
 <!--
 **updownpark2/updownpark2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
