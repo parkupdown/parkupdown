@@ -1,5 +1,8 @@
 ### Just Do It 💥
 
+
+## 기술 블로그 https://velog.io/@tkdgk1996 📚
+
 <!--
 **updownpark2/updownpark2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
