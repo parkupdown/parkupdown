@@ -1,7 +1,23 @@
-### Just Do It 💥
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=UpDownPark%20render&fontSize=90)
 
-## 기술 블로그 https://velog.io/@tkdgk1996 📚
+
+
+<h3 align="center">🛠 used as the main</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+</p>
+<h3 align="center">🛠 used at least once</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>
+  
+ 
+</p>
+<h3 align="center">🛠 tech blog</h3>
+  <p align="center">
+<a href="https://velog.io/@tkdgk1996 "><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@tkdgk1996 "/></a>
+</p>
 
 <!--
 **updownpark2/updownpark2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
