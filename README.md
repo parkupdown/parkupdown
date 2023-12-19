@@ -8,7 +8,7 @@
 </p>
 <h3 align="center">🛠least once🛠</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/nodejs-339933?style=flat&logo=nodejs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/nodeJS-339933?style=flat&logo=nodeJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>
