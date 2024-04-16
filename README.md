@@ -21,8 +21,10 @@
   <p align="center">
 <a href="https://velog.io/@tkdgk1996 "><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@tkdgk1996 "/></a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=updownpark2&show_icons=true&theme=dracula)
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=updownpark&show_icons=true&theme=tokyonight"></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=updownpark2&show_icons=true&theme=transparent"></p>
+
+
 
 <!--
 **updownpark2/updownpark2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
