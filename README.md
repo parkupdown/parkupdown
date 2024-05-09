@@ -22,7 +22,7 @@
 <a href="https://velog.io/@tkdgk1996 "><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@tkdgk1996 "/></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=updownpark2&show_icons=true&theme=transparent"></p>
+
 
 
 
