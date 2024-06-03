@@ -22,8 +22,10 @@
 <a href="https://velog.io/@tkdgk1996 "><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@tkdgk1996 "/></a>
 </p>
 
-
-
+ 
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=updownpark2&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</p>
 
 
 <!--
